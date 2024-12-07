@@ -25,7 +25,7 @@
     height: 517px;
     margin: 64px 120px 64px 120px;
     text-align: center; 
-    background-image: url(/img/image.png);
+    background-image: url(./img/image.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -58,7 +58,7 @@
     grid-column: 1 / span 2; /* Первый блок занимает две колонки */
     grid-row: 1 / span 2; /* Первый блок занимает две строки */
     background-color: #FFFFFF; /* Цвет для первого блока */
-    background-image: url(/img/fasol.png);
+    background-image: url(./img/fasol.png);
     position: relative;
 }
 
@@ -67,7 +67,7 @@
     grid-column: 3 / span 2; /* Второй блок занимает третью и четвертую колонки */
     grid-row: 1; /* Второй блок занимает первую строку */
     background-color: #FFFFFF; /* Цвет для второго блока */
-    background-image: url(/img/golubik.png);
+    background-image: url(./img/golubik.png);
     position: relative;
 }
 
@@ -75,7 +75,7 @@
     grid-column: 3 / span 2; /* Третий блок занимает четвертую колонку */
     grid-row: 2; /* Третий блок занимает вторую строку */
     background-color: #FFFFFF; /* Цвет для третьего блока */
-    background-image: url(/img//morkov.png);
+    background-image: url(./img/morkov.png);
     position: relative;
 }
 
@@ -188,7 +188,7 @@
 .blok-layout4 {
     display: flex;
     justify-content: space-evenly;
-    background-image: url(/img/popcorn.png);
+    background-image: url(./img/popcorn.png);
     background-size: 100%;
     background-repeat: no-repeat;
     justify-content: space-between;
@@ -202,7 +202,7 @@
 .blok-layout5 {  
     display: flex;
     justify-content: space-evenly;
-    background-image: url(/img/ice.png);
+    background-image: url(./img/ice.png);
     background-size: 100%;
     background-repeat: no-repeat;
     justify-content: space-between;
