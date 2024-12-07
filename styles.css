@@ -94,9 +94,6 @@
     background-color: #FFFFFF; /* Цвет для пятого блока */
    position: relative;
 }
-
-
-
 /* Медиазапрос для экранов меньше 1280 пикселей */
 @media (max-width: 1280px) {
     .full-width-block {
@@ -168,7 +165,6 @@
     }
 }
 
-
 .blok-layout1 {
     display: flex;
     justify-content: space-evenly;
@@ -220,7 +216,6 @@
     padding: 10px;
     
 }
-
 
 .icons {
     display: flex;
@@ -274,8 +269,6 @@ h3 {
     color: #FFFFFF;
 }
 
-
-
 .chips {
     display: flex;
     flex-direction: column;
@@ -307,7 +300,6 @@ h3 {
     align-items: center;
 
 }
-
 
 .form-contener-header {
     display: flex;
